@@ -1,1 +1,7 @@
-# level-up-juniors
+# 📂 Level Up for Juniors
+
+## Instalação
+
+```js
+npm init - y
+```
